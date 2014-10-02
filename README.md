@@ -11,7 +11,7 @@ Greetings.  I'm Bryan, and this is the Repository for my Project Three   **Githu
 URL for Project Three
 -------------
 
-##**[http://p3.allebone.me](http://p3.allebone/me)**
+##**[http://p3.allebone.me](http://p3.allebone.me)**
 
 
 > **Note:**
