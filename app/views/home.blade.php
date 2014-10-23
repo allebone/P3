@@ -5,16 +5,16 @@
 	
 	<div class="container container-margin-bottom">
 		<div class="row marketing">
-			<div class="jumbotron col-lg-6 pull-left">
-				<h1>Lorem Ipsum Generator</h1>
+			<div class="jumbotron col-lg-3 pull-left">
+				<h3>Lorem Ipsum Generator</h3>
 				<p> In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the graphic elements of a document or visual presentation. By replacing the distraction of meaningful content with filler text of scrambled Latin it allows viewers to focus on graphical elements such as font, typography, and layout.</p>
 				<p>Create random filler text for your applications.</p>
 				<p>
 					<a id="btn1" class="btn btn-lg btn-success" href="#sec1" role="button">Lorem Ipsum Generator</a>
 				</p>
 			</div>
-			<div class="jumbotron col-lg-6 pull-right">
-				<h1>Random User Generator</h1>
+			<div class="jumbotron col-lg-3 pull-right">
+				<h3>Random User Generator</h3>
 				<p>Create random user data for your applications. Like Lorem Ipsum, but for people.</p>
 				<p>
 					<a id="btn2" class="btn btn-lg btn-success" href="#sec2" role="button">Random User Generator</a>
