@@ -41,10 +41,6 @@ The following items were included for attached rationale:
 ##**[Bootstrap GitHub](https://github.com/twbs/bootstrap)**
 	
 >	Utilizing the Bootstrap Framework gave me the opportunity to uniformly present information within my site. Its requisite theme from CSS is also represented below as a utilized dependency. The color mapping, sized character depictions, and quick implementation of anchored areas are unparallelled for a fledgling designer. 
-	
-##**[Jquery Countdown](http://hilios.github.io/jQuery.countdown/)**
-	
->	Graphical depictions created by JQuery plug-ins just manage to accomplish more with less code.  In this context, JQuery is only utilized on the attached temporary "Under Contruction" site for each project.  Each has a countdown timer with a "No Later Than Date" for each project's Due Date. 
 
 ##**Bootstrap Theme (.css)**
  
