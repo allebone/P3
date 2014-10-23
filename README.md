@@ -38,15 +38,11 @@ Additional Information
 The following items were included for attached rationale:
 
 	
- --**Twitter Bootstrap Framework**
- 
-	[Bootstrap GitHub](https://github.com/twbs/bootstrap)
+ --**[Bootstrap GitHub](https://github.com/twbs/bootstrap)**
 	
 	Utilizing the Bootstrap Framework gave me the opportunity to uniformly present information within my site. Its requisite theme from CSS is also represented below as a utilized dependency. The color mapping, sized character depictions, and quick implementation of anchored areas are unparallelled for a fledgling designer. 
 	
- --**JQuery and JQuery Countdown Plug-in**
-	
-	[Jquery Countdown](http://hilios.github.io/jQuery.countdown/)
+ --**[Jquery Countdown](http://hilios.github.io/jQuery.countdown/)**
 	
 	Graphical depictions created by JQuery plug-ins just manage to accomplish more with less code.  In this context, JQuery is only utilized on the attached temporary "Under Contruction" site for each project.  Each has a countdown timer with a "No Later Than Date" for each project's Due Date. 
 
@@ -54,14 +50,14 @@ The following items were included for attached rationale:
  
 	I don't have the luxury of time/experience to create eye pleasing color palates, and functional design.  Twitter is generous enough to provide these under reusable  licensing terms. I altered them (within the confines of the licensing structure) to facilitate features/color schemes within my design.  I've listed this separately due to its alteration within Licensing. 
 
---**Font Awesome 4.1.0**
+--**[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
 
-	[Font Awesome](http://fortawesome.github.io/Font-Awesome/)I utilized the Font Awesome inclusions so that I could use the their fancy Icon Sets. For instance, Facebook, LinkedIn, GitHub, and Pied Piper are the only icons used in the contact area: doing more with less in terms of visual appeal.Also, there are LESS versions and pre-processing already apparent for efficiency.
+	I utilized the Font Awesome inclusions so that I could use the their fancy Icon Sets. For instance, Facebook, LinkedIn, GitHub, and Pied Piper are the only icons used in the contact area: doing more with less in terms of visual appeal.Also, there are LESS versions and pre-processing already apparent for efficiency.
 
---**Faker**
+--**[Faker](https://github.com/fzaninotto/Faker)**
 
-	[Faker](https://github.com/fzaninotto/Faker) I utilized the Faker PHP Library to facilitate creation of several fake identities. 
+	I utilized the Faker PHP Library to facilitate creation of several fake identities. 
 
---**Badcow-Lorem Ipsum Generator**
+--**[Badcow - Lorem Ipsum Generator](https://packagist.org/packages/badcow/lorem-ipsum)**
 
-	[Badcow - Lorem Ipsum Generator](https://packagist.org/packages/badcow/lorem-ipsum) I utilized the Lorem Ipsum Generator from Badcow, ths is the method by which I generate Lorum Ipsum textual data. 
+	I utilized the Lorem Ipsum Generator from Badcow, ths is the method by which I generate Lorum Ipsum textual data. 
