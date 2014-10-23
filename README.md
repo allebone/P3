@@ -23,26 +23,21 @@ URL for Project Three
 Project Description
 -------------------
 
-Not available yet.
+Project Three is a clear demonstration of the ability to function with basic concepts in Laravel, Composer, et al. Below are the listed assistive libraries, but the concept from the project definition is clear.  Produce a clear demonstration of the aforementioned Laravel content, and have two mini applications contained within: One Generates Lorem Ipsum content for newly created sites or documents. The latter: a generator of fictional people and their personal information.  Great for many different applications. 
 
 Demo Information
 --------------------
-
-Not available yet.
 
 > **Presentation:** My Demo can be found at [Demo Place](http://p1.allebone.com).
 
 Additional Information
 --------------------
 
-Not available yet.
-
 ### Outside Dependencies and Citation
 
 The following items were included for attached rationale:
 
 	
-
  --**Twitter Bootstrap Framework**
  
 	[Bootstrap GitHub](https://github.com/twbs/bootstrap)
@@ -63,4 +58,10 @@ The following items were included for attached rationale:
 
 	[Font Awesome](http://fortawesome.github.io/Font-Awesome/)I utilized the Font Awesome inclusions so that I could use the their fancy Icon Sets. For instance, Facebook, LinkedIn, GitHub, and Pied Piper are the only icons used in the contact area: doing more with less in terms of visual appeal.Also, there are LESS versions and pre-processing already apparent for efficiency.
 
+--**Faker**
 
+	[Faker](https://github.com/fzaninotto/Faker) I utilized the Faker PHP Library to facilitate creation of several fake identities. 
+
+--**Badcow-Lorem Ipsum Generator**
+
+	[Badcow - Lorem Ipsum Generator](https://packagist.org/packages/badcow/lorem-ipsum) I utilized the Lorem Ipsum Generator from Badcow, ths is the method by which I generate Lorum Ipsum textual data. 
