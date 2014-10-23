@@ -28,7 +28,7 @@ Project Three is a clear demonstration of the ability to function with basic con
 Demo Information
 --------------------
 
-> **Presentation:** My Demo can be found [HERE](http://p1.allebone.com).
+> **Presentation:** My Demo can be found [HERE](http://screencast.com/t/JgLb0ejmSzq).
 
 Additional Information
 --------------------
